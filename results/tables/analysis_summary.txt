@@ -1,0 +1,30 @@
+
+TP53 COMPARATIVE GENOMICS PROJECT
+
+Database: NCBI Datasets
+NCBI Gene ID: 7157
+Taxonomic scope: Mammals
+
+Date of analysis (UTC):
+2026-11-14T07:08:03.644175+00:00
+
+Number of selected species:
+9
+
+Number of aligned sequences:
+9
+
+Alignment length:
+418
+
+Main analysis:
+- Sequence quality control
+- Pairwise sequence identity
+- Amino acid conservation
+- Amino acid composition
+- Principal Component Analysis
+- Phylogenetic tree construction
+
+External tools:
+- MAFFT
+- FastTree

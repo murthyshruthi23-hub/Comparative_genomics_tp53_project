@@ -1,0 +1,10 @@
+species,accession,sequence_length,ambiguous_percentage
+Homo sapiens,NP_000537.3,393,0.0
+Pan troglodytes,XP_016786959.2,411,0.0
+Macaca mulatta,NP_001040616.1,393,0.0
+Mus musculus,NP_035770.2,390,0.0
+Rattus norvegicus,NP_001416922.1,391,0.0
+Canis lupus familiaris,NP_001376147.1,381,0.0
+Bos taurus,NP_776626.1,386,0.0
+Sus scrofa,NP_998989.3,386,0.0
+Equus caballus,NP_001189334.1,381,0.0
